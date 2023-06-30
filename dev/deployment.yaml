@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: user-service
-          image: yohenba/user-service:75
+          image: yohenba/user-service:79
           ports:
           - containerPort: 8080
 
